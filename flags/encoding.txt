@@ -2949,6 +2949,7 @@ xx-misc-fam	F801
 
 xx-misc-r-vexillology	F810
 xx-misc-hello-internet	F811
+xx-misc-kuvinia	F812
 
 xx-org-fiav	F820
 xx-org-fotw	F821

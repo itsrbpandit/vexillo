@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE flag PUBLIC "-//Kreative//DTD Vexillo 1.0//EN" "http://www.kreativekorp.com/dtd/kvxx.dtd">
+<flag name="Kuvinia" fly="h*4/3">
+	<defs>
+		<dim id="s" e="min(h*2/3,w)"/>
+		<color id="white">
+			<colorspec model="rgb" value="255 255 255"/>
+		</color>
+		<color id="black">
+			<colorspec model="rgb" value="0 0 0"/>
+		</color>
+		<color id="red">
+			<colorspec model="rgb" value="255 51 68"/>
+		</color>
+		<color id="orange">
+			<colorspec model="rgb" value="255 153 2"/>
+		</color>
+		<color id="yellow">
+			<colorspec model="rgb" value="255 238 2"/>
+		</color>
+		<color id="green">
+			<colorspec model="rgb" value="50 221 50"/>
+		</color>
+		<color id="cyan">
+			<colorspec model="rgb" value="17 238 237"/>
+		</color>
+		<color id="blue">
+			<colorspec model="rgb" value="68 102 255"/>
+		</color>
+		<color id="purple">
+			<colorspec model="rgb" value="204 51 254"/>
+		</color>
+		<color id="magenta">
+			<colorspec model="rgb" value="255 102 237"/>
+		</color>
+		<symdef id="triangle" d="
+			M 0 -0.4 L 0.44 0.37 L -0.44 0.37 Z
+			M 0 -0.24 L -0.305 0.29 L 0.305 0.29 Z
+		"/>
+		<imgdef id=".acnl">
+			<imgsrc type="application/x-acnl" enc="ascii85">
+				<![CDATA[
+					9)s)7FoZ4VD?+AN@/p9-zzzzzz!!&nd<WH\2GQ;FXC]J8ODZBb;zb.^LKEWBYN@/tBLB`N;VAH2]1zmm
+					JCa'3"OFd@]R`jq$SS$4-\4AnGXeGB\7T+sJ3T6psF2AnGXeGB\7T+sJ3T6psF2AnGXeGB\7T+sJ3T6p
+					sF2AnGXeGB\7T+sJ3T6psF2AnGXeGB\7T+sJ3T6psF2h;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;
+					-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-lrd,!O6h;-oCh;-oCh;-lrd,!O6h;-oCh;-oCh;-le!8ZJeh;
+					-oCh;-oCh;-le!8ZJeh;-oCh;-oCh;&O%$..Mah;-oCh;-oCh;&Oe%FEqeh;-oCh;-oCh;&(eh#Q9eh;
+					-oCh;-oCh;&(eh#Q9eh;-oCh;-oCh$q`eh$q`eh;-oCh;-oCh$q`eh$q`eh;-oCh;-oCh#Q9eh;&(eh;
+					-oCh;-oCh#Q9eh;&(eh;-oCh;-oC%FEqeh;&Oeh;-oCh;-oC%FEqeh;&Oeh;-oCh;-oCzzh;-oCh;-oC
+					zzh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCh;-oCLkpkC1G^gC&J5
+					Te<E3%!LkpkC1G^gC&J5Te<E3%!LkpkC1G^gC&J5Te<E3%!LkpkC1G^gC&J5Te<E3%!LkpkC1G^gC&J5
+					Te<E3%!
+				]]>
+			</imgsrc>
+		</imgdef>
+	</defs>
+	<field x1="0" y1="0" x2="w" y2="h" color="white"/>
+	<vband x1="0" y1="0" x2="w" y2="h/6" bands="4" colors="green yellow orange red"/>
+	<vband x1="0" y1="h*5/6" x2="w" y2="h" bands="4" colors="cyan blue purple magenta"/>
+	<symbol symbol="triangle" x="w/2" y="h/2" sx="s" sy="s" color="black"/>
+</flag>

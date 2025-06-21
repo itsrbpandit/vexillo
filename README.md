@@ -587,6 +587,7 @@ These are duplicates of flags with country codes or subdivision codes, but under
 <tr><td><img src="artwork/vexillo/pgc024/xx-misc-gus-cheer.png" width="18" height="12" title="Gus’ Cheer Flag"></td><td><code>xx-misc-gus-cheer</code></td><td>Gus’ Cheer Flag</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-misc-hello-internet.png" width="18" height="12" title="Hello Internet"></td><td><code>xx-misc-hello-internet</code></td><td>Hello Internet</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-misc-iguana.png" width="18" height="12" title="Iguana iguana powersurgius"></td><td><code>xx-misc-iguana</code></td><td>Iguana iguana powersurgius</td></tr>
+<tr><td><img src="artwork/vexillo/pgc024/xx-misc-kuvinia.png" width="18" height="12" title="Kuvinia"></td><td><code>xx-misc-kuvinia</code></td><td>Kuvinia</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-misc-lunanova.png" width="18" height="12" title="Luna Nova"></td><td><code>xx-misc-lunanova</code></td><td>Luna Nova</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-misc-ntsc.png" width="18" height="12" title="NTSC Color Bars"></td><td><code>xx-misc-ntsc</code></td><td>NTSC Color Bars</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-misc-ntscid.png" width="18" height="12" title="NTSC Color Bars (with Station ID)"></td><td><code>xx-misc-ntscid</code></td><td>NTSC Color Bars (with Station ID)</td></tr>
