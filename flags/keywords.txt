@@ -2261,6 +2261,7 @@ xx-int-ots	int international org organization turkic states ots
 xx-conlang	conlang constructed language creation society
 xx-conlang-bolak	conlang constructed language qbo bolak leon bollack
 xx-conlang-esperanto	conlang constructed language epo esperanto ll zamenhof
+xx-conlang-globasa	conlang constructed language qgb globasa hector ortega
 xx-conlang-glosa	conlang constructed language qgl glosa ronald clark wendy ashby
 xx-conlang-ido	conlang constructed language ido
 xx-conlang-interlingua	conlang constructed language ina interlingua iala international auxiliary association

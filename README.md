@@ -404,6 +404,7 @@ These are duplicates of flags with country codes or subdivision codes, but under
 <tr><td><img src="artwork/vexillo/pgc024/xx-conlang.png" width="18" height="12" title="Conlang"></td><td><code>xx-conlang</code></td><td>Conlang</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-conlang-bolak.png" width="18" height="12" title="Bolak"></td><td><code>xx-conlang-bolak</code></td><td>Bolak</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-conlang-esperanto.png" width="18" height="12" title="Esperanto"></td><td><code>xx-conlang-esperanto</code></td><td>Esperanto</td></tr>
+<tr><td><img src="artwork/vexillo/pgc024/xx-conlang-globasa.png" width="18" height="12" title="Globasa"></td><td><code>xx-conlang-globasa</code></td><td>Globasa</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-conlang-glosa.png" width="18" height="12" title="Glosa"></td><td><code>xx-conlang-glosa</code></td><td>Glosa</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-conlang-ido.png" width="18" height="12" title="Ido"></td><td><code>xx-conlang-ido</code></td><td>Ido</td></tr>
 <tr><td><img src="artwork/vexillo/pgc024/xx-conlang-interlingua.png" width="18" height="12" title="Interlingua"></td><td><code>xx-conlang-interlingua</code></td><td>Interlingua</td></tr>

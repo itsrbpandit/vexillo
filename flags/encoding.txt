@@ -2699,6 +2699,7 @@ xx-conlang	F400
 
 xx-conlang-bolak	F414
 xx-conlang-esperanto	F420
+xx-conlang-globasa	F423
 xx-conlang-glosa	F424
 xx-conlang-ido	F428
 xx-conlang-interlingua	F429

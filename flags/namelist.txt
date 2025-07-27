@@ -2674,6 +2674,7 @@ xx-int-ots	FLAG FOR ORGANIZATION OF TURKIC STATES
 xx-conlang	CONLANG FLAG
 xx-conlang-bolak	FLAG FOR BOLAK
 xx-conlang-esperanto	FLAG FOR ESPERANTO
+xx-conlang-globasa	FLAG FOR GLOBASA
 xx-conlang-glosa	FLAG FOR GLOSA
 xx-conlang-ido	FLAG FOR IDO
 xx-conlang-interlingua	FLAG FOR INTERLINGUA
